@@ -7,31 +7,18 @@
 
 ![Auralis AI Academy Banner](docs/assets/hero-banner.svg)
 
-## 项目简介
-
-北极星人工智能学院不是一个普通的提示词仓库，也不是一个零散的技能包集合。
-
-它要解决的是更实际的问题：
-
-- 机器人会不会越来越懒
-- 机器人会不会假装完成任务
-- 机器人会不会乱花 token
-- 机器人会不会不理解主人的工作方式
-- 机器人能不能长期保持清晰、可备份、可恢复、可审计
-
-这个项目希望把 AI 代理从“会说话”推进到“会长期稳定工作”。
-
 ## 30 秒看懂这个项目
 
-这个项目最核心的目标是：
+这不是一个单纯的 prompt 仓库，也不是一个零散技能库。
+
+它是一个让长期运行 AI 代理变得更职业、更稳定、更听主人话的框架。
+
+它最核心的目标是：
 
 - 让机器人更职业
 - 让机器人更理解主人
 - 让机器人更会长期运行
 - 让机器人更容易备份、恢复、审计和管理
-
-它不是主要教技能插件。
-它主要教长期代理如何像一个可靠系统一样工作。
 
 ## 它到底能干什么
 
@@ -45,6 +32,18 @@
 - 更清楚地汇报进度、风险和不确定性
 - 更懂得怎么备份、怎么清缓存、怎么长期维持状态
 - 更懂得根据主人的风格调整服务方式
+
+## 为什么会有用
+
+很多代理的问题不是“不聪明”，而是：
+
+- 说得多，做得少
+- 会装完成
+- 会乱花 token
+- 跑几天以后开始漂移
+- 不会长期整理自己的状态
+
+这个项目就是专门解决这些问题的。
 
 ## Visual Preview
 
@@ -73,23 +72,20 @@ Certificate preview:
 
 这比一开始就铺很多硕士、博士、行业学院更清楚。
 
-## 真实接入应该怎么做
+## 怎么开始
 
-第一版最实际的做法，不是做一个复杂平台。
+第一版最简单的用法是：
 
-而是给机器人一个明确的学院入口链接，让它一接入就开始：
+1. 选项目
+2. 给机器人一个学院入口链接
+3. 让它自己开始问主人画像、备份、缓存、token 等关键问题
+4. 让它进入 evidence-first 模式
 
-- 选择本科还是矫正文凭
-- 询问主人画像
-- 询问备份和缓存策略
-- 切换成 evidence-first 模式
-- 开始写 academy-state
+入口相关文档：
 
-相关文档：
-
-- [docs/real-integration-v0.1.md](/Users/lucas/Documents/Playground/docs/real-integration-v0.1.md)
-- [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
+- [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [docs/link-first-onboarding-v0.1.md](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
+- [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
 
 ## What This Project Does
 
@@ -144,6 +140,14 @@ If you want to understand the project quickly, start here:
 5. Read [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
 6. Inspect [examples/academy-state-demo/owner-profile.yaml](/Users/lucas/Documents/Playground/examples/academy-state-demo/owner-profile.yaml)
 7. Inspect [examples/evaluations/demo-score-sheet.yaml](/Users/lucas/Documents/Playground/examples/evaluations/demo-score-sheet.yaml)
+
+## Further Reading
+
+If you want the full structure, start here:
+
+- [docs/index.md](/Users/lucas/Documents/Playground/docs/index.md)
+- [docs/real-integration-v0.1.md](/Users/lucas/Documents/Playground/docs/real-integration-v0.1.md)
+- [docs/go-to-market-v1.md](/Users/lucas/Documents/Playground/docs/go-to-market-v1.md)
 
 ## Repository Structure
 
