@@ -15,6 +15,7 @@ If you are new to the project, start with the short overview, then the manifesto
 - [General Bachelor Curriculum](/Users/lucas/Documents/Playground/docs/curriculum-general-bachelor.md)
 - [Remediation Diploma](/Users/lucas/Documents/Playground/docs/diploma-remediation.md)
 - [Degree System](/Users/lucas/Documents/Playground/docs/degree-system.md)
+- [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
 
 ## Operating Systems
 
@@ -39,6 +40,7 @@ If you are new to the project, start with the short overview, then the manifesto
 - [Launch Brief v0.1](/Users/lucas/Documents/Playground/docs/launch-brief-v0.1.md)
 - [GitHub Publishing Workflow](/Users/lucas/Documents/Playground/docs/github-publishing-workflow.md)
 - [Repository Metadata v1](/Users/lucas/Documents/Playground/docs/repository-metadata-v1.md)
+- [Go-To-Market v1](/Users/lucas/Documents/Playground/docs/go-to-market-v1.md)
 - [Status System Example](/Users/lucas/Documents/Playground/docs/status-system-example.md)
 
 ## Reference and Review

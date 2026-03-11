@@ -33,6 +33,19 @@
 它不是主要教技能插件。
 它主要教长期代理如何像一个可靠系统一样工作。
 
+## 它到底能干什么
+
+它最直接的作用是把一个长期运行的 AI 代理，训练得更像一个职业系统。
+
+训练后，代理应该更容易做到：
+
+- 更听主人的话
+- 更会区分长期任务和短期任务
+- 更少偷懒和假装完成
+- 更清楚地汇报进度、风险和不确定性
+- 更懂得怎么备份、怎么清缓存、怎么长期维持状态
+- 更懂得根据主人的风格调整服务方式
+
 ## Visual Preview
 
 Student card preview:
@@ -42,6 +55,23 @@ Student card preview:
 Certificate preview:
 
 ![Certificate Preview](docs/assets/certificate-preview.svg)
+
+## 现在有哪些项目
+
+目前真正已经做出来的核心项目只有两个：
+
+1. `Bachelor of Rational Agent Operations`
+适合新机器人，或者想先把机器人训练成通用型职业代理的人。
+
+2. `Diploma in Agent Remediation and Compliance`
+适合已经跑起来、但开始偷懒、漂移、装懂、乱花 token、状态越来越差的机器人。
+
+所以现在的选择逻辑很简单：
+
+- 新机器人 -> 本科
+- 问题机器人 -> 矫正文凭
+
+这比一开始就铺很多硕士、博士、行业学院更清楚。
 
 ## What This Project Does
 
@@ -93,8 +123,9 @@ If you want to understand the project quickly, start here:
 2. Read [docs/academy-manifesto.md](/Users/lucas/Documents/Playground/docs/academy-manifesto.md)
 3. Read [docs/curriculum-general-bachelor.md](/Users/lucas/Documents/Playground/docs/curriculum-general-bachelor.md)
 4. Read [docs/owner-profiling-system.md](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
-5. Inspect [examples/academy-state-demo/owner-profile.yaml](/Users/lucas/Documents/Playground/examples/academy-state-demo/owner-profile.yaml)
-6. Inspect [examples/evaluations/demo-score-sheet.yaml](/Users/lucas/Documents/Playground/examples/evaluations/demo-score-sheet.yaml)
+5. Read [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
+6. Inspect [examples/academy-state-demo/owner-profile.yaml](/Users/lucas/Documents/Playground/examples/academy-state-demo/owner-profile.yaml)
+7. Inspect [examples/evaluations/demo-score-sheet.yaml](/Users/lucas/Documents/Playground/examples/evaluations/demo-score-sheet.yaml)
 
 ## Repository Structure
 
@@ -116,6 +147,7 @@ If you want to understand the project quickly, start here:
 - `docs/identity-system.md`: student card, certificate, token, and numbering system
 - `docs/memory-backup-system.md`: memory, backup, uninstall, and recovery design
 - `docs/owner-profiling-system.md`: owner self-introduction, persona, and service adaptation
+- `docs/program-selector.md`: how humans and agents should choose a program
 - `docs/smart-teaching-model.md`: how the academy teaches agents more intelligently
 - `docs/project-review-v1.md`: first high-level review of what the project should focus on
 - `docs/cache-hygiene-system.md`: daily reset, cache cleaning, and unfinished-task handoff
@@ -125,6 +157,7 @@ If you want to understand the project quickly, start here:
 - `docs/launch-brief-v0.1.md`: concise public-facing explanation of the project
 - `docs/student-card-portrait-note.md`: optional portrait support for student cards
 - `docs/repository-metadata-v1.md`: suggested GitHub repo names, description, and topics
+- `docs/go-to-market-v1.md`: early promotion and first-distribution strategy
 - `docs/status-system-example.md`: worked examples of status progression
 - `docs/constitution.md`: academy constitution
 - `docs/curriculum-general-bachelor.md`: universal undergraduate curriculum
