@@ -2,6 +2,9 @@
 
 一个面向长期运行 AI 代理的训练、治理、认证与持续改进体系。
 
+这个仓库是通用主仓库，不绑定单一 Agent 软件。
+针对特定生态的接入会通过适配层提供，比如 OpenClaw skill。
+
 [Documentation Index](/Users/lucas/Documents/Playground/docs/index.md)  
 [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 
@@ -87,6 +90,23 @@ Certificate preview:
 - [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
 - [docs/link-first-onboarding-v0.1.md](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
 - [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
+- [docs/openclaw-adapter-strategy.md](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
+
+## OpenClaw 适配
+
+这个项目本身是通用型学院，不只服务 OpenClaw。
+
+如果你要在 OpenClaw 生态里分发和上架，推荐使用轻量适配层：
+
+- [integrations/openclaw/agent-academy/SKILL.md](/Users/lucas/Documents/Playground/integrations/openclaw/agent-academy/SKILL.md)
+
+这层只负责：
+
+- 让 OpenClaw agent 进入 academy mode
+- 判断本科还是矫正
+- 询问主人画像和运行设置
+- 初始化本地 academy-state
+- 切换到 evidence-first reporting
 
 ## 发给 Agent 的最短入口
 
@@ -187,6 +207,7 @@ If you want the full structure, start here:
 - `docs/link-first-onboarding-v0.1.md`: the preferred link-based onboarding model
 - `docs/messaging-v1.md`: clearer product-facing positioning and message
 - `docs/share-copy-v1.md`: short shareable copy for groups and posts
+- `docs/openclaw-adapter-strategy.md`: why the academy stays generic while OpenClaw gets a thin adapter
 - `docs/smart-teaching-model.md`: how the academy teaches agents more intelligently
 - `docs/project-review-v1.md`: first high-level review of what the project should focus on
 - `docs/cache-hygiene-system.md`: daily reset, cache cleaning, and unfinished-task handoff
@@ -216,6 +237,7 @@ If you want the full structure, start here:
 - `examples/README.md`: example index
 - `scripts/generate_artifact.py`: minimal template renderer for Markdown and SVG outputs
 - `scripts/generate_demo_artifacts.sh`: one-command demo artifact generation
+- `integrations/openclaw/agent-academy/SKILL.md`: lightweight OpenClaw adapter skill
 
 ## First Version Scope
 

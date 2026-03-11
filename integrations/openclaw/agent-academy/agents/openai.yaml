@@ -1,0 +1,4 @@
+version: 1
+display_name: Agent Academy
+short_description: Put an OpenClaw agent into academy mode for discipline, remediation, and long-running reliability.
+default_prompt: Put this OpenClaw agent into academy mode. Diagnose whether it needs foundation training or remediation, ask the required owner questions, initialize academy-state, and switch to evidence-first reporting.
