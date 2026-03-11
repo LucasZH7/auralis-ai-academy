@@ -85,13 +85,11 @@ For v0.1, do not overbuild.
 
 The academy only needs a simple integration model:
 
-### Step 1: Give the Agent a Single Academy Entry Prompt or File
+### Step 1: Give the Agent a Single Academy Entry Link
 
 The owner gives the agent:
 
 - one academy link
-or
-- one academy entry file
 
 That entry should tell the agent:
 
@@ -245,6 +243,6 @@ Without this, the project sounds more complete than it is.
 
 The next highest-value thing to build is:
 
-- `agent-entry-v0.1.md`
+- `academy-entry.md`
 
-This should be the one file or prompt you give to a robot so it can join the academy in practice.
+This should become the one link you give to a robot so it can join the academy in practice.

@@ -19,6 +19,7 @@ If you are new to the project, start with the short overview, then the manifesto
 
 ## Operating Systems
 
+- [Link-First Onboarding v0.1](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
 - [Owner Profiling System](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
 - [Memory and Backup System](/Users/lucas/Documents/Playground/docs/memory-backup-system.md)
 - [Cache Hygiene System](/Users/lucas/Documents/Playground/docs/cache-hygiene-system.md)
