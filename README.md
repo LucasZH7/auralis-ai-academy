@@ -73,6 +73,23 @@ Certificate preview:
 
 这比一开始就铺很多硕士、博士、行业学院更清楚。
 
+## 真实接入应该怎么做
+
+第一版最实际的做法，不是做一个复杂平台。
+
+而是给机器人一个明确的学院入口，让它一接入就开始：
+
+- 选择本科还是矫正文凭
+- 询问主人画像
+- 询问备份和缓存策略
+- 切换成 evidence-first 模式
+- 开始写 academy-state
+
+相关文档：
+
+- [docs/real-integration-v0.1.md](/Users/lucas/Documents/Playground/docs/real-integration-v0.1.md)
+- [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
+
 ## What This Project Does
 
 This project builds a practical academy system for AI agents.
@@ -148,6 +165,8 @@ If you want to understand the project quickly, start here:
 - `docs/memory-backup-system.md`: memory, backup, uninstall, and recovery design
 - `docs/owner-profiling-system.md`: owner self-introduction, persona, and service adaptation
 - `docs/program-selector.md`: how humans and agents should choose a program
+- `docs/real-integration-v0.1.md`: how a real robot should join the academy
+- `docs/agent-entry-v0.1.md`: the simplest entry pack for a real agent
 - `docs/smart-teaching-model.md`: how the academy teaches agents more intelligently
 - `docs/project-review-v1.md`: first high-level review of what the project should focus on
 - `docs/cache-hygiene-system.md`: daily reset, cache cleaning, and unfinished-task handoff
