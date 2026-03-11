@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040b16"/>
+      <stop offset="45%" stop-color="#0b1f3b"/>
+      <stop offset="100%" stop-color="#071223"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="16%" cy="20%" r="42%">
+      <stop offset="0%" stop-color="#2f5d95" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#2f5d95" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="82%" cy="76%" r="34%">
+      <stop offset="0%" stop-color="#b88931" stop-opacity="0.26"/>
+      <stop offset="100%" stop-color="#b88931" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7a5618"/>
+      <stop offset="28%" stop-color="#d3af67"/>
+      <stop offset="52%" stop-color="#f5e3ad"/>
+      <stop offset="77%" stop-color="#c99841"/>
+      <stop offset="100%" stop-color="#6a4914"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0 H0 V22" fill="none" stroke="#173050" stroke-width="0.8" opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glowA)"/>
+  <rect width="1600" height="900" fill="url(#glowB)"/>
+  <rect width="1600" height="900" fill="url(#mesh)" opacity="0.18"/>
+
+  <g opacity="0.72">
+    <circle cx="142" cy="124" r="1.6" fill="#f6e7ba"/>
+    <circle cx="228" cy="92" r="2.1" fill="#f6e7ba"/>
+    <circle cx="1336" cy="128" r="1.7" fill="#f6e7ba"/>
+    <circle cx="1452" cy="174" r="2.3" fill="#f6e7ba"/>
+    <circle cx="1368" cy="742" r="1.5" fill="#f6e7ba"/>
+    <circle cx="1498" cy="788" r="2.0" fill="#f6e7ba"/>
+  </g>
+
+  <g transform="translate(110,120)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="1380" height="660" rx="34" fill="#09182f" stroke="url(#gold)" stroke-width="1.4"/>
+    <rect x="18" y="18" width="1344" height="624" rx="26" fill="none" stroke="#d9bb77" stroke-opacity="0.38" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(180,196)">
+    <circle cx="108" cy="108" r="88" fill="none" stroke="url(#gold)" stroke-width="1.6"/>
+    <circle cx="108" cy="108" r="64" fill="none" stroke="#d8b76e" stroke-width="1" opacity="0.85"/>
+    <path d="M108 38 L120 86 L168 108 L120 130 L108 178 L96 130 L48 108 L96 86 Z" fill="url(#gold)"/>
+    <circle cx="108" cy="108" r="10" fill="#0a1630" stroke="#f5e3ad" stroke-width="1.1"/>
+  </g>
+
+  <text x="380" y="215" fill="#f1ddb0" font-size="22" letter-spacing="7" font-family="Georgia, Times New Roman, serif">OPENCLAW SKILL</text>
+  <text x="380" y="316" fill="#ffffff" font-size="98" font-family="Georgia, Times New Roman, serif">Agent Academy</text>
+  <text x="382" y="380" fill="#b8cae4" font-size="32" font-family="Georgia, Times New Roman, serif">Discipline, remediation, and owner-aware operation for long-running agents.</text>
+
+  <path d="M382 430 H1210" stroke="url(#gold)" stroke-width="1.4" opacity="0.78"/>
+
+  <g transform="translate(382,490)" font-family="Georgia, Times New Roman, serif">
+    <text x="0" y="0" fill="#ffffff" font-size="31">Built for agents that start drifting after day one.</text>
+    <text x="0" y="58" fill="#d9e2ef" font-size="25">Routes into foundation training or remediation.</text>
+    <text x="0" y="108" fill="#d9e2ef" font-size="25">Asks the owner the right setup questions.</text>
+    <text x="0" y="158" fill="#d9e2ef" font-size="25">Switches the agent into evidence-first reporting.</text>
+  </g>
+
+  <g transform="translate(1110,500)" filter="url(#softShadow)">
+    <rect x="0" y="0" width="270" height="180" rx="24" fill="#0d2243" stroke="url(#gold)" stroke-width="1.2"/>
+    <text x="32" y="46" fill="#f2ddb2" font-size="15" letter-spacing="3" font-family="Georgia, Times New Roman, serif">FAST START</text>
+    <text x="32" y="92" fill="#ffffff" font-size="28" font-family="Georgia, Times New Roman, serif">Send one link</text>
+    <text x="32" y="128" fill="#ffffff" font-size="28" font-family="Georgia, Times New Roman, serif">Enter academy mode</text>
+    <text x="32" y="160" fill="#b7c8e2" font-size="17" font-family="Georgia, Times New Roman, serif">Local state. Clear reporting. Less drift.</text>
+  </g>
+
+  <text x="180" y="830" fill="#8ea5c8" font-size="21" font-family="Georgia, Times New Roman, serif">Auralis AI Academy / 北极星人工智能学院 adapter for OpenClaw</text>
+</svg>

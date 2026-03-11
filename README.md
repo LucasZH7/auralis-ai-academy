@@ -102,6 +102,11 @@ Certificate preview:
 - [docs/openclaw-store-copy-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-store-copy-v0.1.md)
 - [docs/openclaw-publish-checklist-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-publish-checklist-v0.1.md)
 - [docs/openclaw-entry-script-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-entry-script-v0.1.md)
+- [docs/openclaw-listing-bundle-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
+
+OpenClaw store cover preview:
+
+![OpenClaw Agent Academy Cover](/Users/lucas/Documents/Playground/docs/assets/openclaw-agent-academy-cover.svg)
 
 这层只负责：
 
