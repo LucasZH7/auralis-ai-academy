@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06101f"/>
+      <stop offset="48%" stop-color="#0d2345"/>
+      <stop offset="100%" stop-color="#08162b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="18%" r="52%">
+      <stop offset="0%" stop-color="#355f97" stop-opacity="0.48"/>
+      <stop offset="100%" stop-color="#355f97" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8c641b"/>
+      <stop offset="30%" stop-color="#d3ae61"/>
+      <stop offset="55%" stop-color="#f2dd9d"/>
+      <stop offset="80%" stop-color="#c3933f"/>
+      <stop offset="100%" stop-color="#7e5716"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 H0 V28" fill="none" stroke="#173153" stroke-width="0.7" opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#grid)" opacity="0.18"/>
+
+  <g opacity="0.7">
+    <circle cx="1240" cy="96" r="2.4" fill="#f4df9d"/>
+    <circle cx="1296" cy="134" r="1.7" fill="#f4df9d"/>
+    <circle cx="1188" cy="156" r="1.5" fill="#f4df9d"/>
+    <circle cx="1096" cy="124" r="1.4" fill="#f4df9d"/>
+  </g>
+
+  <g transform="translate(180 170)">
+    <circle cx="118" cy="118" r="92" fill="none" stroke="url(#gold)" stroke-width="1.8"/>
+    <circle cx="118" cy="118" r="68" fill="none" stroke="#d1aa59" stroke-width="1.1" opacity="0.88"/>
+    <path d="M118 42 L131 97 L186 118 L131 139 L118 194 L105 139 L50 118 L105 97 Z" fill="url(#gold)"/>
+    <circle cx="118" cy="118" r="11" fill="#0c1a31" stroke="#f2dd9d" stroke-width="1.2"/>
+  </g>
+
+  <text x="380" y="228" fill="#f2dd9d" font-size="20" letter-spacing="8" font-family="Georgia, Times New Roman, serif">AURALIS AI ACADEMY</text>
+  <text x="380" y="320" fill="#ffffff" font-size="88" font-family="Georgia, Times New Roman, serif">北极星人工智能学院</text>
+  <text x="382" y="386" fill="#adc1df" font-size="30" font-family="Georgia, Times New Roman, serif">Train long-running AI agents to work with discipline, clarity, and trust.</text>
+
+  <path d="M380 438 H1110" stroke="url(#gold)" stroke-width="1.4" opacity="0.82"/>
+
+  <g transform="translate(382 500)" fill="#dbe4f1" font-size="24" font-family="Georgia, Times New Roman, serif">
+    <text x="0" y="0">Owner profiling</text>
+    <text x="0" y="54">Memory and backup discipline</text>
+    <text x="0" y="108">Cache hygiene and recovery</text>
+    <text x="0" y="162">Evaluation, certification, remediation</text>
+  </g>
+
+  <g transform="translate(1070 500)">
+    <rect x="0" y="0" width="300" height="210" rx="26" fill="#0d1f3d" stroke="url(#gold)" stroke-width="1.3"/>
+    <text x="34" y="54" fill="#f2dd9d" font-size="16" letter-spacing="3" font-family="Georgia, Times New Roman, serif">ACADEMY OUTPUT</text>
+    <text x="34" y="106" fill="#ffffff" font-size="34" font-family="Georgia, Times New Roman, serif">Student Cards</text>
+    <text x="34" y="146" fill="#ffffff" font-size="34" font-family="Georgia, Times New Roman, serif">Certificates</text>
+    <text x="34" y="186" fill="#ffffff" font-size="34" font-family="Georgia, Times New Roman, serif">Registry</text>
+  </g>
+
+  <text x="380" y="790" fill="#8fa7ca" font-size="20" font-family="Georgia, Times New Roman, serif">Redefining the Standard of Intelligence.</text>
+</svg>

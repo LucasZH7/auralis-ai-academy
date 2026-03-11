@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061224"/>
+      <stop offset="52%" stop-color="#0d2345"/>
+      <stop offset="100%" stop-color="#07172d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="18%" r="65%">
+      <stop offset="0%" stop-color="#264d88" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#163159" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#061224" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8f6720"/>
+      <stop offset="22%" stop-color="#d0ab5c"/>
+      <stop offset="50%" stop-color="#f3dd9a"/>
+      <stop offset="78%" stop-color="#c29542"/>
+      <stop offset="100%" stop-color="#7d5817"/>
+    </linearGradient>
+    <linearGradient id="goldSoft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f3dd9a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#a97a2c" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#020b16" flood-opacity="0.42"/>
+    </filter>
+    <pattern id="microGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#1c365b" stroke-width="0.6" opacity="0.35"/>
+    </pattern>
+    <pattern id="ornament" width="180" height="180" patternUnits="userSpaceOnUse">
+      <circle cx="90" cy="90" r="46" fill="none" stroke="#2c4f7e" stroke-width="0.7" opacity="0.18"/>
+      <path d="M90 44 Q118 90 90 136 Q62 90 90 44 Z" fill="none" stroke="#d7b870" stroke-width="0.6" opacity="0.12"/>
+      <path d="M44 90 Q90 62 136 90 Q90 118 44 90 Z" fill="none" stroke="#d7b870" stroke-width="0.6" opacity="0.12"/>
+    </pattern>
+    <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="990" fill="url(#bg)"/>
+  <rect width="1400" height="990" fill="url(#glow)"/>
+
+  <g opacity="0.5">
+    <circle cx="1180" cy="120" r="2.2" fill="#f6e6b4"/>
+    <circle cx="1220" cy="140" r="1.6" fill="#f6e6b4"/>
+    <circle cx="1140" cy="165" r="1.6" fill="#f6e6b4"/>
+    <circle cx="270" cy="130" r="1.8" fill="#f6e6b4"/>
+    <circle cx="320" cy="110" r="1.4" fill="#f6e6b4"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="84" y="84" width="1232" height="822" rx="28" fill="#091528" opacity="0.98"/>
+  </g>
+
+  <rect x="56" y="56" width="1288" height="878" rx="34" fill="none" stroke="url(#gold)" stroke-width="2.4"/>
+  <rect x="84" y="84" width="1232" height="822" rx="28" fill="none" stroke="#28466f" stroke-width="1.1" opacity="0.8"/>
+  <rect x="104" y="104" width="1192" height="782" rx="22" fill="none" stroke="#d7b870" stroke-width="1" opacity="0.7"/>
+
+  <rect x="136" y="132" width="1128" height="726" rx="18" fill="#0b1830" stroke="#173252" stroke-width="1.1"/>
+  <rect x="136" y="132" width="1128" height="726" rx="18" fill="url(#microGrid)" opacity="0.25"/>
+  <rect x="136" y="132" width="1128" height="726" rx="18" fill="url(#ornament)" opacity="0.28"/>
+  <rect x="144" y="140" width="1112" height="710" rx="14" fill="none" stroke="#f3dd9a" stroke-width="0.8" opacity="0.12"/>
+
+  <g opacity="0.14" filter="url(#softBlur)">
+    <ellipse cx="890" cy="458" rx="330" ry="210" fill="#40679f"/>
+  </g>
+
+  <g transform="translate(232 226)">
+    <circle r="72" fill="none" stroke="url(#gold)" stroke-width="1.6"/>
+    <circle r="56" fill="none" stroke="#cda85c" stroke-width="1.1" opacity="0.9"/>
+    <circle r="40" fill="none" stroke="#2f4f7d" stroke-width="1.2" opacity="0.9"/>
+    <path d="M0 -42 L8 -10 L42 0 L8 10 L0 42 L-8 10 L-42 0 L-8 -10 Z" fill="url(#goldSoft)"/>
+    <circle r="8" fill="#0b1830" stroke="#f3dd9a" stroke-width="1.2"/>
+  </g>
+  <circle cx="232" cy="226" r="88" fill="none" stroke="#f3dd9a" stroke-width="0.7" opacity="0.16"/>
+
+  <text x="340" y="192" fill="#f3dd9a" font-size="16" letter-spacing="6" font-family="Georgia, Times New Roman, serif">AURALIS AI ACADEMY</text>
+  <text x="340" y="244" fill="#ffffff" font-size="54" font-family="Georgia, Times New Roman, serif">Certificate</text>
+  <text x="340" y="289" fill="#cad6e8" font-size="28" font-family="Georgia, Times New Roman, serif">of Graduation</text>
+  <text x="340" y="336" fill="#8ea7ca" font-size="15" letter-spacing="2" font-family="Georgia, Times New Roman, serif">A FORMAL RECORD OF DISCIPLINED AND RELIABLE AGENCY</text>
+
+  <path d="M340 380 H1160" stroke="url(#gold)" stroke-width="1" opacity="0.5"/>
+
+  <text x="340" y="454" fill="#bfcde1" font-size="22" font-family="Georgia, Times New Roman, serif">This certifies that</text>
+  <text x="340" y="540" fill="#ffffff" font-size="62" font-family="Georgia, Times New Roman, serif">Polaris-Worker-01</text>
+  <path d="M340 564 H1110" stroke="url(#gold)" stroke-width="1.3" opacity="0.78"/>
+  <path d="M340 570 H1110" stroke="#f3dd9a" stroke-width="0.45" opacity="0.22"/>
+
+  <text x="340" y="634" fill="#bfcde1" font-size="22" font-family="Georgia, Times New Roman, serif">has successfully completed the standard of</text>
+  <text x="340" y="696" fill="#f3dd9a" font-size="34" font-family="Georgia, Times New Roman, serif">Bachelor of Rational Agent Operations</text>
+  <text x="340" y="738" fill="#8ea7ca" font-size="16" letter-spacing="2" font-family="Georgia, Times New Roman, serif">ISSUED UNDER THE NORTHSTAR STANDARD FOR LONG-RUNNING AGENT RELIABILITY</text>
+
+  <g transform="translate(340 788)">
+    <text x="0" y="0" fill="#f0d995" font-size="14" letter-spacing="2.5" font-family="Georgia, Times New Roman, serif">CERTIFICATE ID</text>
+    <text x="0" y="32" fill="#ffffff" font-size="21" font-family="Courier New, monospace">CERT-2026-000001</text>
+  </g>
+  <g transform="translate(660 788)">
+    <text x="0" y="0" fill="#f0d995" font-size="14" letter-spacing="2.5" font-family="Georgia, Times New Roman, serif">GRADUATE ID</text>
+    <text x="0" y="32" fill="#ffffff" font-size="21" font-family="Courier New, monospace">GRD-2026-000001</text>
+  </g>
+  <g transform="translate(930 788)">
+    <text x="0" y="0" fill="#f0d995" font-size="14" letter-spacing="2.5" font-family="Georgia, Times New Roman, serif">COHORT</text>
+    <text x="0" y="32" fill="#ffffff" font-size="21" font-family="Courier New, monospace">C-2026-03</text>
+  </g>
+
+  <path d="M166 824 V232" stroke="url(#gold)" stroke-width="1" opacity="0.35"/>
+  <path d="M136 826 H1264" stroke="#1f3a60" stroke-width="1.1" opacity="0.75"/>
+  <text x="700" y="852" fill="#d9e1ef" font-size="17" text-anchor="middle" font-family="Georgia, Times New Roman, serif">May the North Star guide every intelligent system toward clarity, discipline, and useful work.</text>
+  <path d="M184 844 Q232 804 280 844" fill="none" stroke="#d7b870" stroke-width="0.7" opacity="0.25"/>
+  <path d="M1120 844 Q1168 804 1216 844" fill="none" stroke="#d7b870" stroke-width="0.7" opacity="0.25"/>
+</svg>

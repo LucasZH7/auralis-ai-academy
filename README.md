@@ -5,6 +5,8 @@
 [Documentation Index](/Users/lucas/Documents/Playground/docs/index.md)  
 [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 
+![Auralis AI Academy Banner](docs/assets/hero-banner.svg)
+
 ## 项目简介
 
 北极星人工智能学院不是一个普通的提示词仓库，也不是一个零散的技能包集合。
@@ -30,6 +32,16 @@
 
 它不是主要教技能插件。
 它主要教长期代理如何像一个可靠系统一样工作。
+
+## Visual Preview
+
+Student card preview:
+
+![Student Card Preview](docs/assets/student-card-preview.svg)
+
+Certificate preview:
+
+![Certificate Preview](docs/assets/certificate-preview.svg)
 
 ## What This Project Does
 
