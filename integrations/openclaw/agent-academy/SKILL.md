@@ -5,13 +5,23 @@ description: Put an OpenClaw agent into academy mode for long-running reliabilit
 
 # Agent Academy
 
-Use this skill when an OpenClaw agent needs to become more disciplined, more owner-aware, and more reliable over time.
+Use this skill when an OpenClaw agent starts drifting, talking more than it delivers, or needs a stronger owner-aligned operating mode.
 
 This skill is an OpenClaw-specific adapter for the broader `Auralis AI Academy / 北极星人工智能学院` project. The academy itself is platform-agnostic. This skill exists only to make onboarding easy inside the OpenClaw ecosystem.
 
+## Fast outcome
+
+When used correctly, the agent should quickly become:
+
+- more disciplined
+- more owner-aware
+- less vague
+- better at showing proof
+- easier to run for days without drifting
+
 ## What this skill does
 
-When used correctly, the agent should:
+The agent should:
 
 1. Diagnose whether it needs:
 - `Bachelor of Rational Agent Operations`
@@ -40,6 +50,10 @@ Choose remediation when the agent is already showing any of the following:
 - unstable long-running behavior
 
 If there is doubt, choose remediation.
+
+## One-line operating rule
+
+Do not use verbal compliance as a substitute for real progress.
 
 ## Required owner questions
 
