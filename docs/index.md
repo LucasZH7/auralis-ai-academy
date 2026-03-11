@@ -6,6 +6,7 @@ If you are new to the project, start with the short overview, then the manifesto
 
 - [README](/Users/lucas/Documents/Playground/README.md)
 - [30-Second Overview](/Users/lucas/Documents/Playground/docs/30-second-overview.md)
+- [Academy Entry](/Users/lucas/Documents/Playground/docs/academy-entry.md)
 - [Academy Manifesto](/Users/lucas/Documents/Playground/docs/academy-manifesto.md)
 - [Project Review v1](/Users/lucas/Documents/Playground/docs/project-review-v1.md)
 
@@ -32,6 +33,8 @@ If you are new to the project, start with the short overview, then the manifesto
 - [Product Model](/Users/lucas/Documents/Playground/docs/product-model.md)
 - [Product Spec](/Users/lucas/Documents/Playground/docs/product-spec.md)
 - [Brand System](/Users/lucas/Documents/Playground/docs/brand-system.md)
+- [Messaging v1](/Users/lucas/Documents/Playground/docs/messaging-v1.md)
+- [Share Copy v1](/Users/lucas/Documents/Playground/docs/share-copy-v1.md)
 - [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
 
 ## Release and Publishing

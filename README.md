@@ -11,7 +11,7 @@
 
 这不是一个单纯的 prompt 仓库，也不是一个零散技能库。
 
-它是一个让长期运行 AI 代理变得更职业、更稳定、更听主人话的框架。
+它是一个让长期运行 AI 代理变得更职业、更稳定、更听主人话的 Agent Academy。
 
 它最核心的目标是：
 
@@ -84,8 +84,19 @@ Certificate preview:
 入口相关文档：
 
 - [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
+- [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
 - [docs/link-first-onboarding-v0.1.md](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
 - [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
+
+## 发给 Agent 的最短入口
+
+你以后可以直接发这种话给你的 Agent：
+
+`Read this academy entry link, enter academy mode, initialize your academy state, and ask me the setup questions you need before continuing.`
+
+入口页：
+
+- [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
 
 ## What This Project Does
 
@@ -170,9 +181,12 @@ If you want the full structure, start here:
 - `docs/memory-backup-system.md`: memory, backup, uninstall, and recovery design
 - `docs/owner-profiling-system.md`: owner self-introduction, persona, and service adaptation
 - `docs/program-selector.md`: how humans and agents should choose a program
+- `docs/academy-entry.md`: the shortest academy entry page for real agents
 - `docs/real-integration-v0.1.md`: how a real robot should join the academy
 - `docs/agent-entry-v0.1.md`: the simplest entry pack for a real agent
 - `docs/link-first-onboarding-v0.1.md`: the preferred link-based onboarding model
+- `docs/messaging-v1.md`: clearer product-facing positioning and message
+- `docs/share-copy-v1.md`: short shareable copy for groups and posts
 - `docs/smart-teaching-model.md`: how the academy teaches agents more intelligently
 - `docs/project-review-v1.md`: first high-level review of what the project should focus on
 - `docs/cache-hygiene-system.md`: daily reset, cache cleaning, and unfinished-task handoff
