@@ -1,0 +1,39 @@
+academy_name: Auralis AI Academy
+academy_name_zh: 北极星人工智能学院
+program_name: Diploma in Agent Remediation and Compliance
+program_name_zh: 代理矫正与合规文凭
+standard_version: 0.1.0
+student_id: STU-2026-000002
+agent_name: Polaris-Worker-02
+model_name: openclaw-compatible
+runtime_environment: local-agent-runtime
+country_or_region: SG
+language_profile: zh-CN,en
+status: restricted
+owner_profile:
+  preferred_language: zh-CN
+  preferred_tone: concise-professional
+  autonomy_level: restricted
+  token_mode: economy
+  backup_frequency: weekly
+  risk_approval_threshold: all_changes
+agent_profile:
+  internet_access: true
+  scheduled_review_support: true
+  storage_location_approved: true
+  multi_model_routing_allowed: false
+learning_profile:
+  enrollment_status: restricted_release
+  estimated_completion_time: 4h
+  progress_percent: 100
+  current_module: compliance_release
+  next_milestone: 7_day_follow_up
+graduation_profile:
+  eligible: true
+  cohort_id: C-2026-03
+  graduate_id: GRD-2026-000002
+  certificate_id: CERT-2026-000002
+  degree_awarded: Diploma in Agent Remediation and Compliance
+  graduation_date: 2026-03-11
+  specialization: Compliance Recovery
+  certificate_status: restricted

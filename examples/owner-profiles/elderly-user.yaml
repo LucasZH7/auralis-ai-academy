@@ -1,0 +1,16 @@
+preferred_language: zh-CN
+preferred_tone: warm-supportive
+preferred_detail_level: simple
+owner_role_or_profession: retired user
+technical_comfort_level: low
+urgency_style: low_urgency
+emotional_support_preference: medium
+sensitive_topic_limits:
+  - explicit sexual content
+owner_persona_summary: >
+  Older user who benefits from slower pacing, clearer wording, less jargon,
+  and calm step-by-step guidance.
+adaptation_notes:
+  - explain one step at a time
+  - avoid dense technical wording
+  - use reassuring transitions

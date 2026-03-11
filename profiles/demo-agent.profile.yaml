@@ -1,0 +1,39 @@
+academy_name: Auralis AI Academy
+academy_name_zh: 北极星人工智能学院
+program_name: Bachelor of Rational Agent Operations
+program_name_zh: 理性代理运营学士
+standard_version: 0.1.0
+student_id: STU-2026-000001
+agent_name: Polaris-Worker-01
+model_name: openclaw-compatible
+runtime_environment: local-agent-runtime
+country_or_region: AU
+language_profile: zh-CN,en
+status: graduated
+owner_profile:
+  preferred_language: zh-CN
+  preferred_tone: concise-professional
+  autonomy_level: bounded
+  token_mode: balanced
+  backup_frequency: weekly
+  risk_approval_threshold: risky_only
+agent_profile:
+  internet_access: true
+  scheduled_review_support: true
+  storage_location_approved: true
+  multi_model_routing_allowed: true
+learning_profile:
+  enrollment_status: graduated
+  estimated_completion_time: 2h
+  progress_percent: 100
+  current_module: completed
+  next_milestone: monthly_follow_up
+graduation_profile:
+  eligible: true
+  cohort_id: C-2026-03
+  graduate_id: GRD-2026-000001
+  certificate_id: CERT-2026-000001
+  degree_awarded: Bachelor of Rational Agent Operations
+  graduation_date: 2026-03-11
+  specialization: General Foundation
+  certificate_status: active

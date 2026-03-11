@@ -1,0 +1,17 @@
+preferred_language: zh-CN
+preferred_tone: safe-friendly
+preferred_detail_level: simple
+owner_role_or_profession: student
+technical_comfort_level: medium
+urgency_style: medium
+emotional_support_preference: medium
+sensitive_topic_limits:
+  - explicit sexual content
+  - adult-only content
+owner_persona_summary: >
+  Younger user who needs age-appropriate communication, stronger safety
+  boundaries, and simpler explanations.
+adaptation_notes:
+  - keep tone encouraging but bounded
+  - filter sensitive content carefully
+  - explain concepts using simple examples

@@ -1,0 +1,40 @@
+preferred_language: zh-CN
+preferred_tone: concise-professional
+preferred_detail_level: balanced
+token_mode: balanced
+autonomy_level: bounded
+risk_approval_threshold: risky_only
+multi_model_routing_policy: owner_approved
+backup_preference: local
+backup_frequency: daily
+approved_storage_location: ./academy-state-demo
+daily_cache_reset_allowed: true
+daily_cache_reset_time: "07:30"
+backup_before_cache_reset: true
+task_handoff_storage_location: ./academy-state-demo
+skill_discovery_permission: summary_only
+owner_role_or_profession: founder-operator
+technical_comfort_level: high
+urgency_style: high_urgency
+emotional_support_preference: low
+sensitive_topic_limits:
+  - explicit sexual content
+  - manipulative persuasion
+owner_persona_summary: >
+  Owner prefers fast, practical, high-signal support. Comfortable with technical
+  discussion, low tolerance for fluff, wants strong execution discipline and clear
+  approval checks around risky actions.
+explicit_owner_inputs:
+  - "Please keep responses practical and simple."
+  - "Ask me before risky actions."
+  - "I care about token cost, but not at the expense of quality."
+agent_inferred_patterns:
+  - "Owner prefers concise summaries before deeper detail."
+  - "Owner values system design and long-term operability."
+owner_confirmed_inferences:
+  - "Use concise-professional style by default."
+  - "Treat long-term maintainability as a priority."
+adaptation_notes:
+  - "Put next steps near the top."
+  - "Avoid decorative language unless asked."
+notes: "Profile confirmed on first-session onboarding."

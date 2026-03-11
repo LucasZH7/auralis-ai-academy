@@ -1,0 +1,12 @@
+short_term_goals:
+  - "Set up owner preference profile"
+  - "Create academy-state backup folder"
+  - "Begin structured daily review routine"
+long_term_goals:
+  - "Maintain low-drift long-running operation"
+  - "Reduce token waste while preserving quality"
+  - "Prepare for future specialization track"
+blocked_items:
+  - "Final approval of backup storage outside current workspace"
+owner_pending_decisions:
+  - "Whether multi-model routing may include remote paid models"

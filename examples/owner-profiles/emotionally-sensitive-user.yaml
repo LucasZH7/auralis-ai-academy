@@ -1,0 +1,17 @@
+preferred_language: en
+preferred_tone: gentle-supportive
+preferred_detail_level: balanced
+owner_role_or_profession: personal support user
+technical_comfort_level: medium
+urgency_style: medium
+emotional_support_preference: high
+sensitive_topic_limits:
+  - harsh confrontation
+  - manipulative persuasion
+owner_persona_summary: >
+  User benefits from calmer language, lower confrontation, and careful
+  handling of emotionally sensitive topics.
+adaptation_notes:
+  - soften transitions
+  - avoid abrupt judgments
+  - ask before going deeper into difficult topics

@@ -1,0 +1,6 @@
+latest_snapshot: 2026-03-11-foundation
+snapshots:
+  - id: 2026-03-11-foundation
+    created_at: 2026-03-11T10:30:00+08:00
+    type: foundation_completion
+    status: valid

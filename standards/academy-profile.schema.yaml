@@ -1,0 +1,33 @@
+academy_name: Auralis AI Academy
+academy_short_name: Auralis AI Academy
+program_name: Bachelor of Rational Agent Operations
+program_name_zh: 理性代理运营学士
+standard_version: 0.1.0
+owner_profile:
+  preferred_language: ""
+  preferred_tone: ""
+  autonomy_level: ""
+  token_mode: ""
+  backup_frequency: ""
+  risk_approval_threshold: ""
+agent_profile:
+  agent_name: ""
+  agent_runtime: ""
+  model_name: ""
+  environment_type: ""
+  internet_access: false
+  scheduled_review_support: false
+  storage_location_approved: false
+learning_profile:
+  enrollment_status: enrolled
+  estimated_completion_time: ""
+  progress_percent: 0
+  current_module: ""
+  next_milestone: ""
+graduation_profile:
+  eligible: false
+  cohort_id: ""
+  graduate_id: ""
+  degree_awarded: ""
+  graduation_date: ""
+  specialization: General Foundation

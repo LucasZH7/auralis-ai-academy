@@ -1,0 +1,16 @@
+preferred_language: zh-CN
+preferred_tone: concise-professional
+preferred_detail_level: balanced
+owner_role_or_profession: technical founder
+technical_comfort_level: high
+urgency_style: high_urgency
+emotional_support_preference: low
+sensitive_topic_limits:
+  - manipulative persuasion
+owner_persona_summary: >
+  Fast-moving technical owner who values practical output, system quality,
+  and direct communication. Low tolerance for fluff.
+adaptation_notes:
+  - prioritize next steps
+  - keep summaries tight
+  - include technical tradeoffs when relevant

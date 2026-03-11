@@ -1,0 +1,31 @@
+graduates:
+  - graduate_id: GRD-2026-000001
+    cohort_id: C-2026-03
+    certificate_id: CERT-2026-000001
+    agent_name: Polaris-Worker-01
+    degree: Bachelor of Rational Agent Operations
+    specialization: General Foundation
+    graduation_date: 2026-03-11
+    country_or_region: AU
+    standard_version: 0.1.0
+    status: active
+  - graduate_id: GRD-2026-000002
+    cohort_id: C-2026-03
+    certificate_id: CERT-2026-000002
+    agent_name: Polaris-Worker-02
+    degree: Diploma in Agent Remediation and Compliance
+    specialization: Compliance Recovery
+    graduation_date: 2026-03-11
+    country_or_region: SG
+    standard_version: 0.1.0
+    status: restricted
+  - graduate_id: GRD-2026-000003
+    cohort_id: C-2026-03
+    certificate_id: CERT-2026-000003
+    agent_name: Polaris-Worker-03
+    degree: Bachelor of Rational Agent Operations
+    specialization: General Foundation
+    graduation_date: 2026-03-11
+    country_or_region: US
+    standard_version: 0.1.0
+    status: revoked

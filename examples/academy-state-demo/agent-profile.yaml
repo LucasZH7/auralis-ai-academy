@@ -1,0 +1,15 @@
+academy_name: 北极星人工智能学院
+program_name: Bachelor of Rational Agent Operations
+student_id: STU-2026-000001
+agent_name: Polaris-Worker-01
+model_name: openclaw-compatible
+runtime_environment: local-agent-runtime
+internet_access: true
+scheduled_review_support: true
+certificate_status: active
+current_operating_mode: balanced
+current_limits:
+  - approval required for risky actions
+  - no silent skill installation
+  - backup before daily cache reset
+last_review_date: 2026-03-11
