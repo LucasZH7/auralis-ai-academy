@@ -92,24 +92,23 @@ Certificate preview:
 
 ## 怎么开始
 
-第一版最简单的用法是：
+你只需要先做这三步：
 
-1. 选项目
-2. 给机器人一个学院入口链接
-3. 让它自己开始问主人画像、备份、缓存、token 等关键问题
-4. 让它进入 evidence-first 模式
+1. 判断你的 Agent 是新机器人，还是已经跑歪了  
+新机器人读本科，问题机器人读矫正文凭。
 
-入口相关文档：
+2. 选入口  
+- 通用入口：[docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
+- 企业入口：[docs/academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
+
+3. 把入口链接发给你的 Agent  
+它接下来应该自己开始问问题、初始化 academy-state、进入 evidence-first 模式。
+
+如果你想先看全局再开始：
 
 - [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
-- [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
-- [docs/link-first-onboarding-v0.1.md](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
-- [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
-- [docs/openclaw-adapter-strategy.md](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
-- [docs/modular-architecture-v1.md](/Users/lucas/Documents/Playground/docs/modular-architecture-v1.md)
-- [docs/configuration-flow-v1.md](/Users/lucas/Documents/Playground/docs/configuration-flow-v1.md)
-- [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
 - [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
+- [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
 
 ## OpenClaw 适配
 
@@ -144,6 +143,7 @@ OpenClaw store cover preview:
 入口页：
 
 - [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
+- [docs/academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 
 ## What This Project Does
 
@@ -187,25 +187,13 @@ It is a structured training, evaluation, identity, and continuous-improvement sy
 
 如果接入后主人感受不到变化，这个学院就没有价值。
 
-## Quick Start
+## 你应该点哪里
 
-If you want to understand the project quickly, start here:
-
-1. Read [docs/30-second-overview.md](/Users/lucas/Documents/Playground/docs/30-second-overview.md)
-2. Read [docs/academy-manifesto.md](/Users/lucas/Documents/Playground/docs/academy-manifesto.md)
-3. Read [docs/curriculum-general-bachelor.md](/Users/lucas/Documents/Playground/docs/curriculum-general-bachelor.md)
-4. Read [docs/owner-profiling-system.md](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
-5. Read [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
-6. Inspect [examples/academy-state-demo/owner-profile.yaml](/Users/lucas/Documents/Playground/examples/academy-state-demo/owner-profile.yaml)
-7. Inspect [examples/evaluations/demo-score-sheet.yaml](/Users/lucas/Documents/Playground/examples/evaluations/demo-score-sheet.yaml)
-
-## Further Reading
-
-If you want the full structure, start here:
-
-- [docs/index.md](/Users/lucas/Documents/Playground/docs/index.md)
-- [docs/real-integration-v0.1.md](/Users/lucas/Documents/Playground/docs/real-integration-v0.1.md)
-- [docs/go-to-market-v1.md](/Users/lucas/Documents/Playground/docs/go-to-market-v1.md)
+- 我是主人，想先看懂产品： [docs/index.md](/Users/lucas/Documents/Playground/docs/index.md)
+- 我是主人，想直接接机器人： [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
+- 我是企业用户： [docs/academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
+- 我想看真实样板： [examples/README.md](/Users/lucas/Documents/Playground/examples/README.md)
+- 我想看模块系统： [modules/README.md](/Users/lucas/Documents/Playground/modules/README.md)
 
 ## Repository Structure
 

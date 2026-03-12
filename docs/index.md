@@ -1,55 +1,55 @@
 # Documentation Index
 
-If you are new to the project, start with the short overview, then the manifesto, then the general curriculum.
+This index is organized by user journey, not by document type.
 
-## Start Here
+## For Owners
+
+Start here if you want to understand what the academy does and how to use it.
 
 - [README](/Users/lucas/Documents/Playground/README.md)
 - [30-Second Overview](/Users/lucas/Documents/Playground/docs/30-second-overview.md)
-- [Academy Entry](/Users/lucas/Documents/Playground/docs/academy-entry.md)
-- [Academy Manifesto](/Users/lucas/Documents/Playground/docs/academy-manifesto.md)
-- [Project Review v1](/Users/lucas/Documents/Playground/docs/project-review-v1.md)
-
-## Core Academy
-
-- [Constitution](/Users/lucas/Documents/Playground/docs/constitution.md)
-- [General Bachelor Curriculum](/Users/lucas/Documents/Playground/docs/curriculum-general-bachelor.md)
-- [Remediation Diploma](/Users/lucas/Documents/Playground/docs/diploma-remediation.md)
-- [Degree System](/Users/lucas/Documents/Playground/docs/degree-system.md)
 - [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
+- [Course Catalog v0.1](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
+- [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 
-## Operating Systems
+## For Agents
 
+Start here if you are giving one link to an agent.
+
+- [Academy Entry](/Users/lucas/Documents/Playground/docs/academy-entry.md)
+- [Enterprise Academy Entry](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 - [Link-First Onboarding v0.1](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
-- [Owner Profiling System](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
-- [Memory and Backup System](/Users/lucas/Documents/Playground/docs/memory-backup-system.md)
-- [Cache Hygiene System](/Users/lucas/Documents/Playground/docs/cache-hygiene-system.md)
+- [Agent Entry v0.1](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
 - [Immediate Effect System](/Users/lucas/Documents/Playground/docs/agent-immediate-effect.md)
+
+## For Enterprise
+
+Start here if the agent is being configured for a company, team, or multi-region environment.
+
+- [Modular Architecture v1](/Users/lucas/Documents/Playground/docs/modular-architecture-v1.md)
+- [Configuration Flow v1](/Users/lucas/Documents/Playground/docs/configuration-flow-v1.md)
+- [Module Library v0.1](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
+- [Enterprise Intake Questions v0.1](/Users/lucas/Documents/Playground/docs/enterprise-intake-questions-v0.1.md)
+- [Enterprise Education Marketing Stack Demo](/Users/lucas/Documents/Playground/examples/module-stacks/enterprise-education-marketing-stack.yaml)
+
+## For Builders
+
+Start here if you want to integrate, publish, or extend the system.
+
+- [OpenClaw Adapter Strategy](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
+- [OpenClaw Listing Bundle v0.1](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
+- [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
 - [Evaluation System](/Users/lucas/Documents/Playground/docs/evaluation-system.md)
 - [Identity System](/Users/lucas/Documents/Playground/docs/identity-system.md)
 
-## Product and Brand
+## Core Reference
 
-- [Product Model](/Users/lucas/Documents/Playground/docs/product-model.md)
-- [Product Spec](/Users/lucas/Documents/Playground/docs/product-spec.md)
-- [Brand System](/Users/lucas/Documents/Playground/docs/brand-system.md)
-- [Messaging v1](/Users/lucas/Documents/Playground/docs/messaging-v1.md)
-- [Share Copy v1](/Users/lucas/Documents/Playground/docs/share-copy-v1.md)
-- [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
+These are still important, but not the first stop for most people.
 
-## Release and Publishing
-
-- [Release Preparation v1](/Users/lucas/Documents/Playground/docs/release-preparation-v1.md)
-- [Release Notes v0.1.0](/Users/lucas/Documents/Playground/docs/release-notes-v0.1.md)
-- [Launch Brief v0.1](/Users/lucas/Documents/Playground/docs/launch-brief-v0.1.md)
-- [GitHub Publishing Workflow](/Users/lucas/Documents/Playground/docs/github-publishing-workflow.md)
-- [Repository Metadata v1](/Users/lucas/Documents/Playground/docs/repository-metadata-v1.md)
-- [Go-To-Market v1](/Users/lucas/Documents/Playground/docs/go-to-market-v1.md)
-- [Status System Example](/Users/lucas/Documents/Playground/docs/status-system-example.md)
-
-## Reference and Review
-
-- [Vision](/Users/lucas/Documents/Playground/docs/vision.md)
-- [Framework Bilingual](/Users/lucas/Documents/Playground/docs/framework-bilingual.md)
-- [Continuous Evolution Model](/Users/lucas/Documents/Playground/docs/continuous-evolution.md)
-- [Smart Teaching Model](/Users/lucas/Documents/Playground/docs/smart-teaching-model.md)
+- [Academy Manifesto](/Users/lucas/Documents/Playground/docs/academy-manifesto.md)
+- [Constitution](/Users/lucas/Documents/Playground/docs/constitution.md)
+- [General Bachelor Curriculum](/Users/lucas/Documents/Playground/docs/curriculum-general-bachelor.md)
+- [Remediation Diploma](/Users/lucas/Documents/Playground/docs/diploma-remediation.md)
+- [Owner Profiling System](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
+- [Memory and Backup System](/Users/lucas/Documents/Playground/docs/memory-backup-system.md)
+- [Cache Hygiene System](/Users/lucas/Documents/Playground/docs/cache-hygiene-system.md)
