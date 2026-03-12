@@ -7,6 +7,7 @@ This index is organized by user journey, not by document type.
 Start here if you want to understand what the academy does and how to use it.
 
 - [README](/Users/lucas/Documents/Playground/README.md)
+- [Product Map v1](/Users/lucas/Documents/Playground/docs/product-map-v1.md)
 - [30-Second Overview](/Users/lucas/Documents/Playground/docs/30-second-overview.md)
 - [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [Course Catalog v0.1](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
@@ -43,6 +44,7 @@ Start here if the agent is being configured for a company, team, or multi-region
 Start here if you want to integrate, publish, or extend the system.
 
 - [Agent Pharmacy Product](/Users/lucas/Documents/Playground/products/agent-pharmacy/README.md)
+- [Agent Pharmacy Landing v0.1](/Users/lucas/Documents/Playground/products/agent-pharmacy/landing-v0.1.md)
 - [OpenClaw Adapter Strategy](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
 - [OpenClaw Listing Bundle v0.1](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
 - [OpenClaw Final Listing v0.1](/Users/lucas/Documents/Playground/docs/openclaw-final-listing-v0.1.md)

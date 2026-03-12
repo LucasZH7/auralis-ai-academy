@@ -21,6 +21,11 @@ This project helps long-running AI agents become:
 - enterprise: [academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 3. Send that link to your agent.
 
+If you want the fast-response product instead of the academy flow, use:
+
+- [products/agent-pharmacy/landing-v0.1.md](/Users/lucas/Documents/Playground/products/agent-pharmacy/landing-v0.1.md)
+- [products/agent-pharmacy/recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/products/agent-pharmacy/recovery-entry-v0.1.md)
+
 If the agent is already failing and you want the fastest corrective framing, also read:
 
 - [rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
