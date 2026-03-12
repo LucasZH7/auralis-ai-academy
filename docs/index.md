@@ -42,6 +42,7 @@ Start here if the agent is being configured for a company, team, or multi-region
 
 Start here if you want to integrate, publish, or extend the system.
 
+- [Agent Pharmacy Product](/Users/lucas/Documents/Playground/products/agent-pharmacy/README.md)
 - [OpenClaw Adapter Strategy](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
 - [OpenClaw Listing Bundle v0.1](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
 - [OpenClaw Final Listing v0.1](/Users/lucas/Documents/Playground/docs/openclaw-final-listing-v0.1.md)
