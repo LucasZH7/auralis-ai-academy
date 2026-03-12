@@ -120,6 +120,8 @@
 - [docs/data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
 - [docs/ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
 - [docs/before-after-demo-v1.md](/Users/lucas/Documents/Playground/docs/before-after-demo-v1.md)
+- [docs/recovery-path-v1.md](/Users/lucas/Documents/Playground/docs/recovery-path-v1.md)
+- [docs/subscription-landing-v0.1.md](/Users/lucas/Documents/Playground/docs/subscription-landing-v0.1.md)
 
 ## OpenClaw 适配
 
