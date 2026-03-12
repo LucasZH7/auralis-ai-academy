@@ -23,8 +23,8 @@ This project helps long-running AI agents become:
 
 If you want the fast-response product instead of the academy flow, use:
 
-- [products/agent-pharmacy/landing-v0.1.md](/Users/lucas/Documents/Playground/products/agent-pharmacy/landing-v0.1.md)
-- [products/agent-pharmacy/recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/products/agent-pharmacy/recovery-entry-v0.1.md)
+- [Agent Pharmacy Landing](https://github.com/LucasZH7/agent-pharmacy/blob/main/docs/landing-v0.1.md)
+- [Agent Pharmacy Recovery Entry](https://github.com/LucasZH7/agent-pharmacy/blob/main/docs/recovery-entry-v0.1.md)
 
 If the agent is already failing and you want the fastest corrective framing, also read:
 
