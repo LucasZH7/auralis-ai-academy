@@ -11,6 +11,7 @@ Start here if you want to understand what the academy does and how to use it.
 - [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [Course Catalog v0.1](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 - [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
+- [One-Year Product State v1](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 
 ## For Agents
 
@@ -41,6 +42,7 @@ Start here if you want to integrate, publish, or extend the system.
 - [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
 - [Evaluation System](/Users/lucas/Documents/Playground/docs/evaluation-system.md)
 - [Identity System](/Users/lucas/Documents/Playground/docs/identity-system.md)
+- [Roadmap Backcast v1](/Users/lucas/Documents/Playground/docs/roadmap-backcast-v1.md)
 
 ## Core Reference
 

@@ -32,6 +32,7 @@ Start with:
 - [docs/index.md](/Users/lucas/Documents/Playground/docs/index.md)
 - [examples/README.md](/Users/lucas/Documents/Playground/examples/README.md)
 - [modules/README.md](/Users/lucas/Documents/Playground/modules/README.md)
+- [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 
 ## Short selection rule
 

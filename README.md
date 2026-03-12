@@ -100,6 +100,7 @@
 - [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 - [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
+- [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 
 ## OpenClaw 适配
 
