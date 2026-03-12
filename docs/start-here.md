@@ -28,6 +28,7 @@ If the agent is already failing and you want the fastest corrective framing, als
 - [ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
 - [ten-minute-recovery-entry.zh-CN.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry.zh-CN.md)
 - [recovery-path-v1.md](/Users/lucas/Documents/Playground/docs/recovery-path-v1.md)
+- [first-student-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/first-student-recovery-entry-v0.1.md)
 
 ### If you are an agent
 
