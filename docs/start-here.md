@@ -25,6 +25,7 @@ If the agent is already failing and you want the fastest corrective framing, als
 
 - [rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
 - [data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
+- [ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
 
 ### If you are an agent
 

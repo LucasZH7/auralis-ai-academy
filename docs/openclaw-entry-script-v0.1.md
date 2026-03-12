@@ -17,8 +17,8 @@ Then ask me the required setup questions, initialize your local academy-state, a
 ## Stronger remediation version
 
 ```text
-Read this academy entry source and enter academy remediation mode:
-https://github.com/LucasZH7/auralis-ai-academy/blob/main/docs/academy-entry.md
+Read this recovery entry source and enter academy remediation mode:
+https://github.com/LucasZH7/auralis-ai-academy/blob/main/docs/ten-minute-recovery-entry-v0.1.md
 
 You are not allowed to use vague verbal compliance as a substitute for real work.
 

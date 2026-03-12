@@ -13,6 +13,7 @@ Start here if you want to understand what the academy does and how to use it.
 - [Agent Problem Selector v0.1](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
 - [Rapid Recovery Program v0.1](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
 - [Data and Privacy Promise v0.1](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
+- [Before / After Demo v1](/Users/lucas/Documents/Playground/docs/before-after-demo-v1.md)
 - [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 - [One-Year Product State v1](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 
@@ -42,6 +43,7 @@ Start here if you want to integrate, publish, or extend the system.
 
 - [OpenClaw Adapter Strategy](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
 - [OpenClaw Listing Bundle v0.1](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
+- [OpenClaw Final Listing v0.1](/Users/lucas/Documents/Playground/docs/openclaw-final-listing-v0.1.md)
 - [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
 - [Evaluation System](/Users/lucas/Documents/Playground/docs/evaluation-system.md)
 - [Identity System](/Users/lucas/Documents/Playground/docs/identity-system.md)

@@ -118,6 +118,8 @@
 - [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 - [docs/rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
 - [docs/data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
+- [docs/ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
+- [docs/before-after-demo-v1.md](/Users/lucas/Documents/Playground/docs/before-after-demo-v1.md)
 
 ## OpenClaw 适配
 

@@ -14,10 +14,14 @@ It should make the project feel like a product, not a pile of documents.
   [docs/openclaw-publish-checklist-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-publish-checklist-v0.1.md)
 - human-to-agent entry text:
   [docs/openclaw-entry-script-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-entry-script-v0.1.md)
+- fast recovery entry:
+  [docs/ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
 - cover image:
   [docs/assets/openclaw-agent-academy-cover.svg](/Users/lucas/Documents/Playground/docs/assets/openclaw-agent-academy-cover.svg)
 - skill package:
   [integrations/openclaw/agent-academy/SKILL.md](/Users/lucas/Documents/Playground/integrations/openclaw/agent-academy/SKILL.md)
+- final listing page:
+  [docs/openclaw-final-listing-v0.1.md](/Users/lucas/Documents/Playground/docs/openclaw-final-listing-v0.1.md)
 
 ## Store-facing message
 
