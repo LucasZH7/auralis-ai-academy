@@ -48,6 +48,20 @@
 
 这个项目就是专门解决这些问题的。
 
+## 长期方向
+
+长期来看，这个项目不会只是一套固定课程。
+
+它会逐步变成一个模块化系统：
+
+- 通用学院核心层
+- 行业模块
+- 岗位模块
+- 主人偏好模块
+- 企业政策模块
+
+也就是同一个 Agent，可以按照不同公司、行业、岗位快速组装成不同配置。
+
 ## Visual Preview
 
 Student card preview:
@@ -91,6 +105,8 @@ Certificate preview:
 - [docs/link-first-onboarding-v0.1.md](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
 - [docs/agent-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
 - [docs/openclaw-adapter-strategy.md](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
+- [docs/modular-architecture-v1.md](/Users/lucas/Documents/Playground/docs/modular-architecture-v1.md)
+- [docs/configuration-flow-v1.md](/Users/lucas/Documents/Playground/docs/configuration-flow-v1.md)
 
 ## OpenClaw 适配
 

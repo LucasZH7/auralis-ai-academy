@@ -50,6 +50,8 @@ If the agent shows repeated drift or low-quality behavior, it should route itsel
 Future directions can include:
 
 - industry specializations
+- role specializations
+- organization policy modules
 - reliability master programs
 - multi-agent coordination tracks
 

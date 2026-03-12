@@ -75,6 +75,20 @@ Degree, certificate, graduate number, and cohort record.
 
 Maintenance reviews and later specialization tracks.
 
+## 5.5 Long-Term Modular Direction
+
+The long-term product should become modular.
+
+A future agent should be assembled from:
+
+- core academy layer
+- industry module
+- role module
+- owner preference module
+- organization policy module
+
+This keeps the academy general-purpose while allowing fine-grained specialization later.
+
 ## 6. Time Model
 
 This academy should not feel slow or academic in a bad way.
