@@ -1,5 +1,19 @@
 # Examples Index
 
+## Start Here
+
+If you only want one example first, start with:
+
+- [enterprise-education-marketing-stack.yaml](/Users/lucas/Documents/Playground/examples/module-stacks/enterprise-education-marketing-stack.yaml)
+
+This is the clearest single example of how the system is intended to be assembled:
+
+- one core program
+- one industry module
+- one role module
+- one preference module
+- one policy module
+
 ## Academy State Demo
 
 Worked example of what a trained agent's persistent academy state can look like:

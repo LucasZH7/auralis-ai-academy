@@ -6,6 +6,7 @@
 针对特定生态的接入会通过适配层提供，比如 OpenClaw skill。
 
 [Documentation Index](/Users/lucas/Documents/Playground/docs/index.md)  
+[Start Here](/Users/lucas/Documents/Playground/docs/start-here.md)  
 [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 [Module Library](/Users/lucas/Documents/Playground/modules/README.md)
 
@@ -62,16 +63,6 @@
 - 企业政策模块
 
 也就是同一个 Agent，可以按照不同公司、行业、岗位快速组装成不同配置。
-
-## Visual Preview
-
-Student card preview:
-
-![Student Card Preview](docs/assets/student-card-preview.svg)
-
-Certificate preview:
-
-![Certificate Preview](docs/assets/certificate-preview.svg)
 
 ## 现在有哪些项目
 
@@ -134,129 +125,14 @@ OpenClaw store cover preview:
 - 初始化本地 academy-state
 - 切换到 evidence-first reporting
 
-## 发给 Agent 的最短入口
-
-你以后可以直接发这种话给你的 Agent：
-
-`Read this academy entry link, enter academy mode, initialize your academy state, and ask me the setup questions you need before continuing.`
-
-入口页：
-
-- [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
-- [docs/academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
-
-## What This Project Does
-
-This project builds a practical academy system for AI agents.
-
-It is designed to make agents:
-
-- more rational
-- more professional
-- more owner-aware
-- easier to audit, back up, restore, and improve over time
-
-It is not a vague prompt collection.
-It is a structured training, evaluation, identity, and continuous-improvement system.
-
-## 核心目标
-
-我们不承诺机器人永远不会犯错。
-
-我们要做的是一套可重复、可检查、可持续优化的学院机制，让机器人在长期运行中更像一个职业系统，而不是一个越来越散漫的聊天对象。
-
-## Core Ideas
-
-- Clear memory structure
-- Daily review and self-reflection
-- Owner-first permission boundaries
-- Adjustable token strategy
-- Backup-friendly state design
-- General-purpose training before domain specialization
-
-## 接入后的直接变化
-
-一个训练过的机器人，应该在第一轮交互里就表现出不同：
-
-- 主动询问主人的画像和工作方式
-- 主动确认 token 使用偏好
-- 主动确认风险审批边界
-- 主动确认记忆和备份目录
-- 主动区分短期任务和长期任务
-- 主动询问是否允许每日缓存清理和清理前备份
-
-如果接入后主人感受不到变化，这个学院就没有价值。
-
 ## 你应该点哪里
 
+- 我是第一次来： [docs/start-here.md](/Users/lucas/Documents/Playground/docs/start-here.md)
 - 我是主人，想先看懂产品： [docs/index.md](/Users/lucas/Documents/Playground/docs/index.md)
 - 我是主人，想直接接机器人： [docs/academy-entry.md](/Users/lucas/Documents/Playground/docs/academy-entry.md)
 - 我是企业用户： [docs/academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 - 我想看真实样板： [examples/README.md](/Users/lucas/Documents/Playground/examples/README.md)
 - 我想看模块系统： [modules/README.md](/Users/lucas/Documents/Playground/modules/README.md)
-
-## Repository Structure
-
-- `CONTRIBUTING.md`: contribution guidance
-- `COMMUNITY.md`: community model and maintainer control
-- `docs/vision.md`: project vision and feasibility
-- `docs/academy-design.md`: academy model, curriculum, and governance
-- `docs/index.md`: documentation index
-- `docs/framework-bilingual.md`: human-readable and machine-readable academy framework
-- `docs/degree-system.md`: degree naming, tracks, and certification architecture
-- `docs/product-spec.md`: productized academy experience
-- `docs/product-model.md`: complete product and future business model
-- `docs/brand-system.md`: brand naming, slogan, and visual direction
-- `docs/academy-manifesto.md`: mission, philosophy, and ceremonial voice
-- `docs/onboarding-flow.md`: agent connection and learning flow
-- `docs/continuous-evolution.md`: controlled self-improvement and update model
-- `docs/agent-immediate-effect.md`: what changes immediately after graduation
-- `docs/evaluation-system.md`: scoring, graduation, remediation, and revocation
-- `docs/identity-system.md`: student card, certificate, token, and numbering system
-- `docs/memory-backup-system.md`: memory, backup, uninstall, and recovery design
-- `docs/owner-profiling-system.md`: owner self-introduction, persona, and service adaptation
-- `docs/program-selector.md`: how humans and agents should choose a program
-- `docs/academy-entry.md`: the shortest academy entry page for real agents
-- `docs/real-integration-v0.1.md`: how a real robot should join the academy
-- `docs/agent-entry-v0.1.md`: the simplest entry pack for a real agent
-- `docs/link-first-onboarding-v0.1.md`: the preferred link-based onboarding model
-- `docs/messaging-v1.md`: clearer product-facing positioning and message
-- `docs/share-copy-v1.md`: short shareable copy for groups and posts
-- `docs/openclaw-adapter-strategy.md`: why the academy stays generic while OpenClaw gets a thin adapter
-- `docs/smart-teaching-model.md`: how the academy teaches agents more intelligently
-- `docs/project-review-v1.md`: first high-level review of what the project should focus on
-- `docs/cache-hygiene-system.md`: daily reset, cache cleaning, and unfinished-task handoff
-- `docs/artifact-generation-flow.md`: how student cards and certificates are issued and updated
-- `docs/english-brand-shortlist-v1.md`: current English naming options
-- `docs/release-preparation-v1.md`: first public release checklist and launch scope
-- `docs/launch-brief-v0.1.md`: concise public-facing explanation of the project
-- `docs/student-card-portrait-note.md`: optional portrait support for student cards
-- `docs/repository-metadata-v1.md`: suggested GitHub repo names, description, and topics
-- `docs/go-to-market-v1.md`: early promotion and first-distribution strategy
-- `docs/status-system-example.md`: worked examples of status progression
-- `docs/constitution.md`: academy constitution
-- `docs/curriculum-general-bachelor.md`: universal undergraduate curriculum
-- `docs/diploma-remediation.md`: corrective diploma for unstable or undisciplined agents
-- `standards/academy-profile.schema.yaml`: shared agent academy profile format
-- `registry/graduates.yaml`: public graduate registry
-- `registry/graduates-demo.yaml`: sample graduate registry
-- `registry/registry-public.md`: public-facing English registry page
-- `registry/registry-public.zh-CN.md`: public-facing Chinese registry page
-- `profiles/`: sample enrolled, graduated, restricted, and revoked agent profiles
-- `certificates/`: sample student-card and graduation certificate records
-- `templates/`: markdown and SVG templates for academy artifacts
-- `examples/academy-state-demo/`: worked example of a trained agent state package
-- `examples/evaluations/`: worked example of scoring and graduation records
-- `examples/artifacts/`: worked example inputs for artifact generation
-- `examples/owner-profiles/`: worked owner-profile examples for different user types
-- `examples/module-stacks/`: worked examples of industry + role + preference assembly
-- `examples/README.md`: example index
-- `modules/`: future official module library for industry, role, preference, and policy packs
-- `scripts/generate_artifact.py`: minimal template renderer for Markdown and SVG outputs
-- `scripts/generate_demo_artifacts.sh`: one-command demo artifact generation
-- `integrations/openclaw/agent-academy/SKILL.md`: lightweight OpenClaw adapter skill
-
-## First Version Scope
 
 Version 1 focuses on a general-purpose undergraduate certification for AI agents.
 It is meant for any industry or role before specialized tracks are added.
