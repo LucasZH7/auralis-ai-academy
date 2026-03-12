@@ -45,6 +45,7 @@ Start here if you want to integrate, publish, or extend the system.
 - [OpenClaw Adapter Strategy](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
 - [OpenClaw Listing Bundle v0.1](/Users/lucas/Documents/Playground/docs/openclaw-listing-bundle-v0.1.md)
 - [OpenClaw Final Listing v0.1](/Users/lucas/Documents/Playground/docs/openclaw-final-listing-v0.1.md)
+- [OpenClaw Publish Ready v0.1](/Users/lucas/Documents/Playground/docs/openclaw-publish-ready-v0.1.md)
 - [Subscription Landing v0.1](/Users/lucas/Documents/Playground/docs/subscription-landing-v0.1.md)
 - [Artifact Generation Flow](/Users/lucas/Documents/Playground/docs/artifact-generation-flow.md)
 - [Evaluation System](/Users/lucas/Documents/Playground/docs/evaluation-system.md)

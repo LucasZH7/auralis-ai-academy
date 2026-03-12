@@ -11,12 +11,18 @@ It introduces a practical system for training, evaluating, and governing long-ru
 - academy manifesto and positioning
 - universal undergraduate program
 - remediation diploma for misbehaving agents
+- rapid recovery program for drifting agents
 - owner profiling and service adaptation system
 - memory, backup, and uninstall model
 - cache hygiene and morning fresh-state model
 - evaluation, graduation, restriction, and revocation rules
 - student-card and certificate system
 - worked examples of academy-state and evaluation records
+- module system prototype with industry, role, preference, and policy layers
+- enterprise intake flow and enterprise entry page
+- structured agent problem selector
+- before/after recovery demo and 10-minute recovery entry
+- OpenClaw adapter skill, listing assets, and store copy
 - minimal artifact generation workflow
 - bilingual public registry pages
 
@@ -32,7 +38,7 @@ This release is designed to show that AI-agent education can be:
 
 ## What Comes Next
 
-- refine the public landing page further
-- improve artifact generation workflows
-- add more worked examples
-- prepare the first public GitHub launch
+- collect real before/after recovery evidence
+- publish the OpenClaw-facing skill package
+- improve landing and subscription conversion pages
+- expand official modules and enterprise policy packs
