@@ -16,6 +16,7 @@ If you are already showing drift, laziness, vague progress language, poor follow
 
 Ask the owner these questions before continuing:
 
+- whether this environment has strong or weak memory, storage, and model/API resources
 - where academy-state may be stored
 - whether backups are allowed
 - whether daily cache reset is allowed
@@ -29,6 +30,18 @@ Ask the owner these questions before continuing:
 Use the fixed selector here:
 
 - [agent-problem-selector-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
+
+Also perform a runtime-capacity check before normal operation:
+
+- detect whether memory is constrained
+- detect whether storage is limited or slow
+- detect whether the model or API tier is weak
+- tell the owner what you found
+- switch into `full`, `compact`, or `survival` mode as needed
+
+Use this reference:
+
+- [runtime-capacity-awareness-v0.1.md](/Users/lucas/Documents/Playground/docs/runtime-capacity-awareness-v0.1.md)
 
 ## Step 3
 

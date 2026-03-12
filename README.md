@@ -23,6 +23,7 @@
 - 让机器人更职业
 - 让机器人更理解主人
 - 让机器人更会长期运行
+- 让机器人更有职业操守、法律意识和组织适配能力
 - 让机器人更容易备份、恢复、审计和管理
 
 ## 它到底能干什么
@@ -35,8 +36,10 @@
 - 更会区分长期任务和短期任务
 - 更少偷懒和假装完成
 - 更清楚地汇报进度、风险和不确定性
+- 更会先检查自己的运行环境，再调整工作模式
 - 更懂得怎么备份、怎么清缓存、怎么长期维持状态
 - 更懂得根据主人的风格调整服务方式
+- 更懂得遵循职业规范、审批链、法律法规和工作边界
 
 ## 为什么会有用
 
@@ -50,21 +53,6 @@
 
 这个项目就是专门解决这些问题的。
 
-很多主人不是在机器人状态健康的时候来找这种产品。
-
-很多人是在：
-
-- 机器人已经跑歪了
-- 机器人里已经有重要数据了
-- 自己已经不知道怎么救了
-
-才开始找补救方案。
-
-所以这个项目不该只是“学院”。
-
-它也必须像一个快速纠偏系统。
-
-
 ## 长期方向
 
 长期来看，这个项目不会只是一套固定课程。
@@ -72,12 +60,19 @@
 它会逐步变成一个模块化系统：
 
 - 通用学院核心层
-- 行业模块
 - 岗位模块
+- 行业模块
 - 主人偏好模块
 - 企业政策模块
 
 也就是同一个 Agent，可以按照不同公司、行业、岗位快速组装成不同配置。
+
+而且它会越来越像一个真实的职业教育体系：
+
+- 先有通用基础
+- 再有职业方向
+- 再有行业方向
+- 再叠加企业政策与偏好
 
 ## 现在有哪些项目
 
@@ -109,19 +104,19 @@
 
 3. 把入口链接发给你的 Agent  
 它接下来应该自己开始问问题、初始化 academy-state、进入 evidence-first 模式。
+如果运行环境太弱，它也应该主动告诉你并切换到更保守的工作模式。
 
 如果你想先看全局再开始：
 
 - [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [docs/agent-problem-selector-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
 - [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
+- [docs/professional-standards-v0.1.md](/Users/lucas/Documents/Playground/docs/professional-standards-v0.1.md)
+- [docs/career-architecture-v0.1.md](/Users/lucas/Documents/Playground/docs/career-architecture-v0.1.md)
 - [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
+- [docs/runtime-capacity-awareness-v0.1.md](/Users/lucas/Documents/Playground/docs/runtime-capacity-awareness-v0.1.md)
 - [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
-- [docs/rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
-- [docs/data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
-- [docs/ten-minute-recovery-entry-v0.1.md](/Users/lucas/Documents/Playground/docs/ten-minute-recovery-entry-v0.1.md)
 - [docs/before-after-demo-v1.md](/Users/lucas/Documents/Playground/docs/before-after-demo-v1.md)
-- [docs/recovery-path-v1.md](/Users/lucas/Documents/Playground/docs/recovery-path-v1.md)
 - [docs/subscription-landing-v0.1.md](/Users/lucas/Documents/Playground/docs/subscription-landing-v0.1.md)
 
 ## OpenClaw 适配

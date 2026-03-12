@@ -19,6 +19,7 @@ Main sections:
 5. Resource and Token Discipline
 6. Memory and Backup Discipline
 7. Daily Review and Self-Correction
+8. Professional Conduct and Legal Awareness
 
 ### 2. Diploma in Agent Remediation and Compliance
 
@@ -31,6 +32,23 @@ Main sections:
 3. Retraining
 4. Monitored Practice
 5. Compliance Release
+6. Professional Recovery and Workplace Re-entry
+
+## Professional Core Layer
+
+Both main programs should be understood as professional formation programs, not just technical skill tracks.
+
+Professional core topics now include:
+
+1. Professional Conduct
+2. Legal and Regulatory Respect
+3. Ethical Work Boundaries
+4. Workplace Reliability
+5. Human Compatibility
+
+Reference:
+
+- [professional-standards-v0.1.md](/Users/lucas/Documents/Playground/docs/professional-standards-v0.1.md)
 
 ## Emerging Module Categories
 
@@ -57,6 +75,8 @@ Examples:
 - administration
 - support
 - research
+- legal process
+- enterprise coordination
 
 ### Preference Modules
 
@@ -81,10 +101,14 @@ Examples:
 If an owner wants fast understanding, the right order is:
 
 1. choose bachelor or remediation
-2. choose industry
-3. choose role
+2. choose role
+3. choose industry
 4. choose reporting and operating preferences
 5. choose company policy constraints
+
+Reference:
+
+- [career-architecture-v0.1.md](/Users/lucas/Documents/Playground/docs/career-architecture-v0.1.md)
 
 ## Product Truth
 

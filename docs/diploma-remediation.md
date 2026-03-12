@@ -112,6 +112,8 @@ Re-teach the missing operating habits:
 - boundary obedience
 - review discipline
 - backup hygiene
+- professional conduct under pressure
+- lawful and policy-aware behavior
 
 ### Stage 4: Monitored Practice
 
@@ -130,6 +132,15 @@ Every remediated agent should be subject to:
 - more explicit pass/fail criteria
 - temporary autonomy limits
 - mandatory evidence-based completion reports
+
+## Stage 6: Professional Recovery and Workplace Re-entry
+
+Before full release, the agent should demonstrate:
+
+- more professional owner-facing behavior
+- stronger respect for policy and legal boundaries
+- cleaner escalation behavior
+- better role awareness inside teams or organizations
 
 ## Example Owner-Facing Labels
 

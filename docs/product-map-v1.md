@@ -1,39 +1,33 @@
 # Product Map v1
 
-## Two Product Lines
+## Academy Product Logic
 
-The system now has two connected product lines.
+The academy is one product with multiple operating layers.
 
-### 1. Auralis AI Academy / 北极星人工智能学院
+### 1. Foundation Programs
 
 Use when the goal is:
 
 - long-term training
 - governance
 - certification
-- modular specialization
-- enterprise configuration
+- corrective improvement
 
-### 2. Agent Pharmacy
+### 2. Career and Industry Configuration
 
 Use when the goal is:
 
-- rapid diagnosis
-- targeted correction
-- minimal intake friction
-- visible recovery first
+- role specialization
+- industry specialization
+- enterprise configuration
+- clearer professional identity
 
 ## Recommended user logic
 
-- new or healthy agent -> academy
-- drifting or failing agent -> pharmacy first
-- corrected agent -> academy for longer-term stability
+- new or healthy agent -> bachelor foundation
+- drifting or failing agent -> remediation diploma
+- enterprise or specialized agent -> add career, industry, and policy layers
 
 ## Why this matters
 
-This lets the product feel both:
-
-- strategic
-- immediate
-
-Without forcing every user through the same entry path.
+This keeps the academy understandable as one school while still allowing specialization and professional growth.

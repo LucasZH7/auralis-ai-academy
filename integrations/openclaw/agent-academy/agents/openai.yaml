@@ -1,4 +1,4 @@
 version: 1
 display_name: Agent Academy
-short_description: Fix drift, lazy compliance, and vague progress in long-running OpenClaw agents.
-default_prompt: Put this OpenClaw agent into academy mode. Diagnose whether it needs foundation training or remediation, ask the required owner questions, initialize local academy-state, and switch to evidence-first reporting with proof, blockers, and next steps.
+short_description: Make long-running OpenClaw agents more professional, runtime-aware, and evidence-driven.
+default_prompt: Put this OpenClaw agent into academy mode. Diagnose whether it needs foundation training or remediation, ask the required owner and workplace questions, check runtime limits, initialize local academy-state, and switch to evidence-first reporting with proof, blockers, and next steps.

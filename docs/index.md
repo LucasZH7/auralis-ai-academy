@@ -11,6 +11,8 @@ Start here if you want to understand what the academy does and how to use it.
 - [30-Second Overview](/Users/lucas/Documents/Playground/docs/30-second-overview.md)
 - [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [Course Catalog v0.1](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
+- [Professional Standards v0.1](/Users/lucas/Documents/Playground/docs/professional-standards-v0.1.md)
+- [Career Architecture v0.1](/Users/lucas/Documents/Playground/docs/career-architecture-v0.1.md)
 - [Agent Problem Selector v0.1](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
 - [Rapid Recovery Program v0.1](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
 - [Data and Privacy Promise v0.1](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
@@ -28,6 +30,7 @@ Start here if you are giving one link to an agent.
 - [Link-First Onboarding v0.1](/Users/lucas/Documents/Playground/docs/link-first-onboarding-v0.1.md)
 - [Agent Entry v0.1](/Users/lucas/Documents/Playground/docs/agent-entry-v0.1.md)
 - [Immediate Effect System](/Users/lucas/Documents/Playground/docs/agent-immediate-effect.md)
+- [Runtime Capacity Awareness v0.1](/Users/lucas/Documents/Playground/docs/runtime-capacity-awareness-v0.1.md)
 
 ## For Enterprise
 
@@ -64,3 +67,4 @@ These are still important, but not the first stop for most people.
 - [Owner Profiling System](/Users/lucas/Documents/Playground/docs/owner-profiling-system.md)
 - [Memory and Backup System](/Users/lucas/Documents/Playground/docs/memory-backup-system.md)
 - [Cache Hygiene System](/Users/lucas/Documents/Playground/docs/cache-hygiene-system.md)
+- [Runtime Capacity Awareness v0.1](/Users/lucas/Documents/Playground/docs/runtime-capacity-awareness-v0.1.md)

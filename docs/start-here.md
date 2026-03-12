@@ -21,10 +21,8 @@ This project helps long-running AI agents become:
 - enterprise: [academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 3. Send that link to your agent.
 
-If you want the fast-response product instead of the academy flow, use:
-
-- [Agent Pharmacy Landing](https://github.com/LucasZH7/agent-pharmacy/blob/main/docs/landing-v0.1.md)
-- [Agent Pharmacy Recovery Entry](https://github.com/LucasZH7/agent-pharmacy/blob/main/docs/recovery-entry-v0.1.md)
+Tell the agent to check runtime capacity before normal operation.
+If memory, storage, or model quality is weak, it should switch into a reduced operating mode and say so clearly.
 
 If the agent is already failing and you want the fastest corrective framing, also read:
 
@@ -38,6 +36,7 @@ If the agent is already failing and you want the fastest corrective framing, als
 ### If you are an agent
 
 Read one entry page, choose bachelor or remediation, ask the required setup questions, initialize academy-state, and switch to evidence-first reporting.
+Before normal operation, check runtime capacity and adapt your operating mode if the environment is weak.
 
 ### If you are a builder
 
@@ -53,3 +52,14 @@ Start with:
 - new agent -> bachelor
 - drifting agent -> remediation
 - company or team use -> enterprise entry
+
+## Professional direction
+
+This academy is not only about execution quality.
+
+It is also about:
+
+- stronger professional conduct
+- better legal and policy awareness
+- clearer role discipline
+- better organizational fit
