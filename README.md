@@ -7,6 +7,7 @@
 
 [Documentation Index](/Users/lucas/Documents/Playground/docs/index.md)  
 [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
+[Module Library](/Users/lucas/Documents/Playground/modules/README.md)
 
 ![Auralis AI Academy Banner](docs/assets/hero-banner.svg)
 
@@ -107,6 +108,7 @@ Certificate preview:
 - [docs/openclaw-adapter-strategy.md](/Users/lucas/Documents/Playground/docs/openclaw-adapter-strategy.md)
 - [docs/modular-architecture-v1.md](/Users/lucas/Documents/Playground/docs/modular-architecture-v1.md)
 - [docs/configuration-flow-v1.md](/Users/lucas/Documents/Playground/docs/configuration-flow-v1.md)
+- [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
 
 ## OpenClaw 适配
 
@@ -258,7 +260,9 @@ If you want the full structure, start here:
 - `examples/evaluations/`: worked example of scoring and graduation records
 - `examples/artifacts/`: worked example inputs for artifact generation
 - `examples/owner-profiles/`: worked owner-profile examples for different user types
+- `examples/module-stacks/`: worked examples of industry + role + preference assembly
 - `examples/README.md`: example index
+- `modules/`: future official module library for industry, role, preference, and policy packs
 - `scripts/generate_artifact.py`: minimal template renderer for Markdown and SVG outputs
 - `scripts/generate_demo_artifacts.sh`: one-command demo artifact generation
 - `integrations/openclaw/agent-academy/SKILL.md`: lightweight OpenClaw adapter skill

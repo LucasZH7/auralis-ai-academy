@@ -1,0 +1,26 @@
+stack_id: demo.education.marketing
+version: 0.1
+program: Bachelor of Rational Agent Operations
+modules:
+  - module_id: core.academy
+    required: true
+  - module_id: industry.education
+    required: true
+  - module_id: role.marketing
+    required: true
+preferences:
+  reporting_style: concise
+  token_mode: balanced
+  daily_cache_reset_allowed: true
+  backup_before_reset: true
+policy:
+  organization_type: school_or_learning_business
+  ethics_profile: high_safety
+  approval_required_for:
+    - external publishing
+    - sensitive learner guidance
+expected_behavior:
+  - patient explanation
+  - clear deliverables
+  - audience-aware wording
+  - evidence-first reporting

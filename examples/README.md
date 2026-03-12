@@ -29,3 +29,7 @@ Worked example of what a trained agent's persistent academy state can look like:
 - [elderly-user.yaml](/Users/lucas/Documents/Playground/examples/owner-profiles/elderly-user.yaml)
 - [young-user.yaml](/Users/lucas/Documents/Playground/examples/owner-profiles/young-user.yaml)
 - [emotionally-sensitive-user.yaml](/Users/lucas/Documents/Playground/examples/owner-profiles/emotionally-sensitive-user.yaml)
+
+## Module Stack Demos
+
+- [education-marketing-stack.yaml](/Users/lucas/Documents/Playground/examples/module-stacks/education-marketing-stack.yaml)
