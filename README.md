@@ -9,7 +9,6 @@
 [Start Here](/Users/lucas/Documents/Playground/docs/start-here.md)  
 [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 [Module Library](/Users/lucas/Documents/Playground/modules/README.md)
-[Agent Pharmacy](/Users/lucas/Documents/Playground/products/agent-pharmacy/README.md)
 
 ![Auralis AI Academy Banner](docs/assets/hero-banner.svg)
 
@@ -65,9 +64,6 @@
 
 它也必须像一个快速纠偏系统。
 
-如果你更偏好“特效药型产品”，现在已经有兄弟产品方向：
-
-- [products/agent-pharmacy/README.md](/Users/lucas/Documents/Playground/products/agent-pharmacy/README.md)
 
 ## 长期方向
 
