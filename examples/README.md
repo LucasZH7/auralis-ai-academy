@@ -33,3 +33,4 @@ Worked example of what a trained agent's persistent academy state can look like:
 ## Module Stack Demos
 
 - [education-marketing-stack.yaml](/Users/lucas/Documents/Playground/examples/module-stacks/education-marketing-stack.yaml)
+- [enterprise-education-marketing-stack.yaml](/Users/lucas/Documents/Playground/examples/module-stacks/enterprise-education-marketing-stack.yaml)

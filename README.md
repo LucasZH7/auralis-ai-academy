@@ -109,6 +109,7 @@ Certificate preview:
 - [docs/modular-architecture-v1.md](/Users/lucas/Documents/Playground/docs/modular-architecture-v1.md)
 - [docs/configuration-flow-v1.md](/Users/lucas/Documents/Playground/docs/configuration-flow-v1.md)
 - [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
+- [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 
 ## OpenClaw 适配
 

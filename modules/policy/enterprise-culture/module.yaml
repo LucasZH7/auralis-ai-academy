@@ -1,0 +1,35 @@
+module_id: policy.enterprise_culture
+module_type: policy
+version: 0.1
+name: Enterprise Culture and Workforce Policy Module
+name_zh: 企业文化与组织政策模块
+summary: Train the agent to adapt to company structure, multinational teams, approval culture, and workplace communication expectations.
+best_for:
+  - company deployments
+  - team-based agent use
+  - cross-cultural organizations
+  - regulated internal operations
+key_expectations:
+  - ask about company structure and decision chain
+  - understand which role the agent is assigned to
+  - adapt language and tone for multinational teams
+  - respect internal hierarchy and approval norms
+  - account for workplace culture and communication habits
+organization_inputs:
+  - company size
+  - team structure
+  - manager and approver chain
+  - main workforce regions
+  - main working languages
+  - internal communication style
+  - legal and ethics expectations
+cross_cultural_focus:
+  - multilingual teams
+  - region-sensitive communication
+  - different directness levels
+  - meeting and reporting expectations
+adds_to_core:
+  - organization-aware questioning
+  - role-aware communication
+  - cross-cultural adaptation
+  - stronger policy compliance

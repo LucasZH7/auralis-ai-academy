@@ -49,6 +49,8 @@ The first repository samples are:
 
 - Education industry module
 - Marketing role module
+- High-clarity reporting preference module
+- Enterprise culture and workforce policy module
 
 These are not the final best modules.
 

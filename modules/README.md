@@ -18,6 +18,8 @@ It needs a clean structure so future modules can be added without redesigning th
 
 - `industry/education/module.yaml`
 - `role/marketing/module.yaml`
+- `preference/high-clarity-reporting/module.yaml`
+- `policy/enterprise-culture/module.yaml`
 
 ## Design rule
 
