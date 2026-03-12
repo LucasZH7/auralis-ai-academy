@@ -86,6 +86,12 @@ Suggested categories:
 - memory disorder
 - token waste
 
+For owner-facing intake, use the fixed selector:
+
+- [agent-problem-selector-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
+
+This makes remediation easier to start and easier to standardize.
+
 ### Stage 2: Restriction
 
 Temporarily reduce autonomy until stable behavior returns.

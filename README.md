@@ -98,6 +98,7 @@
 如果你想先看全局再开始：
 
 - [docs/program-selector.md](/Users/lucas/Documents/Playground/docs/program-selector.md)
+- [docs/agent-problem-selector-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
 - [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 - [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
 - [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)

@@ -24,6 +24,11 @@ Ask the owner these questions before continuing:
 - what token strategy is preferred
 - whether different models may be used for different tasks
 - what the owner profile is
+- which problem types apply if this agent is already underperforming
+
+Use the fixed selector here:
+
+- [agent-problem-selector-v0.1.md](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
 
 ## Step 3
 
