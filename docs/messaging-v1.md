@@ -8,6 +8,8 @@ It should lead with a simple product truth:
 
 - long-running agents drift
 - this project helps fix that
+- owners often arrive when the agent is already failing
+- the product should feel fast-acting, not vague
 
 ## Recommended Product-Facing Expression
 
@@ -34,11 +36,19 @@ Recommended Chinese version:
 
 - `把长期运行的 AI 代理训练得更职业、更听话、更稳定。`
 
+Stronger Chinese version:
+
+- `当你的 Agent 已经开始跑歪，这套系统要尽快把它拉回来。`
+
 ## Short Social Pitch
 
 Recommended direct version:
 
 - `你的 Agent 跑几天就开始偷懒、装懂、只说不做？把它送进 Agent Academy。`
+
+Recommended urgent version:
+
+- `你的 Agent 数据很值钱，但它已经开始跑歪了？先别重装，先把它送进恢复流程。`
 
 Recommended softer version:
 
@@ -67,6 +77,8 @@ Lead with:
 - agent upgrade
 - agent remediation
 - easy onboarding
+- visible correction speed
+- owner-controlled data safety
 
 ## Recommended Shareable Call To Action
 

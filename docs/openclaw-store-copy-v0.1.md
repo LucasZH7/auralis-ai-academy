@@ -14,11 +14,15 @@ Your agent worked on day one. A few days later it talks a lot, lands very little
 
 This skill is built for that.
 
+It is designed to create visible correction quickly, not just produce more theory.
+
 ## Short description
 
 Agent Academy helps long-running OpenClaw agents become more reliable over time.
 
 It routes the agent into either foundation training or remediation, asks the owner the right setup questions, initializes local academy-state, and switches the agent into evidence-first reporting.
+
+It is especially strong when the owner arrives late and needs a fast behavioral reset.
 
 ## Problem statement
 
@@ -42,6 +46,14 @@ After entering academy mode, the agent should:
 - confirm cache reset and backup rules
 - initialize academy-state
 - report work with proof, blockers, and next steps
+
+## Trust promise
+
+The first-version model is owner-controlled:
+
+- state stays local first
+- sensitive data should not be casually copied into academy materials
+- the academy focuses on behavior correction, not data extraction
 
 ## Best for
 

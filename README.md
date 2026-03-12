@@ -50,6 +50,20 @@
 
 这个项目就是专门解决这些问题的。
 
+很多主人不是在机器人状态健康的时候来找这种产品。
+
+很多人是在：
+
+- 机器人已经跑歪了
+- 机器人里已经有重要数据了
+- 自己已经不知道怎么救了
+
+才开始找补救方案。
+
+所以这个项目不该只是“学院”。
+
+它也必须像一个快速纠偏系统。
+
 ## 长期方向
 
 长期来看，这个项目不会只是一套固定课程。
@@ -102,6 +116,8 @@
 - [docs/course-catalog-v0.1.md](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 - [docs/module-library-v0.1.md](/Users/lucas/Documents/Playground/docs/module-library-v0.1.md)
 - [docs/one-year-product-state-v1.md](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
+- [docs/rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
+- [docs/data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
 
 ## OpenClaw 适配
 

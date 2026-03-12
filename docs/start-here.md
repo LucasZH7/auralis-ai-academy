@@ -21,6 +21,11 @@ This project helps long-running AI agents become:
 - enterprise: [academy-entry-enterprise.md](/Users/lucas/Documents/Playground/docs/academy-entry-enterprise.md)
 3. Send that link to your agent.
 
+If the agent is already failing and you want the fastest corrective framing, also read:
+
+- [rapid-recovery-program-v0.1.md](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
+- [data-and-privacy-promise-v0.1.md](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
+
 ### If you are an agent
 
 Read one entry page, choose bachelor or remediation, ask the required setup questions, initialize academy-state, and switch to evidence-first reporting.

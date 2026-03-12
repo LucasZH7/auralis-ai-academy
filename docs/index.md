@@ -11,6 +11,8 @@ Start here if you want to understand what the academy does and how to use it.
 - [Program Selector](/Users/lucas/Documents/Playground/docs/program-selector.md)
 - [Course Catalog v0.1](/Users/lucas/Documents/Playground/docs/course-catalog-v0.1.md)
 - [Agent Problem Selector v0.1](/Users/lucas/Documents/Playground/docs/agent-problem-selector-v0.1.md)
+- [Rapid Recovery Program v0.1](/Users/lucas/Documents/Playground/docs/rapid-recovery-program-v0.1.md)
+- [Data and Privacy Promise v0.1](/Users/lucas/Documents/Playground/docs/data-and-privacy-promise-v0.1.md)
 - [Examples Index](/Users/lucas/Documents/Playground/examples/README.md)
 - [One-Year Product State v1](/Users/lucas/Documents/Playground/docs/one-year-product-state-v1.md)
 
